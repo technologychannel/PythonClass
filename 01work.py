@@ -1,0 +1,11 @@
+print("I am a computer teacher and entrepreneur.")
+print("I teach coding, app development, web development, and AI.")
+print("I have completed digital marketing training from Google.")
+print("I am working on an app named 'Budget Easy' to help manage finances.")
+print("I run a computer institute where I teach various computer courses.")
+print("I have a YouTube channel with 297K views on Python tutorials.")
+print("I am planning to launch a coding course for my students soon.")
+print("I am creating a 'Guess the Map' game.")
+print("I want to achieve something big in life with honesty and integrity.")
+print("I will be a judge at a hackathon soon.")
+

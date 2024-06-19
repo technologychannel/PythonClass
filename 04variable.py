@@ -21,12 +21,12 @@ mod = num1 % num2
 intdiv = num1 // num2
 cube = num1 ** 3
 
-print(f"Sum is {sum} and diff is {diff}") # 13 7
-print(f"Mul is {mul}") # 30
-print(f"Div is {div}") # 3.333
-print(f"Mod is {mod}") # 1
-print(f"Int div is {intdiv}") # 3
-print(f"Cube is {cube}") # 1000
+print(f"Sum is {sum} and diff is {diff}")
+print(f"Mul is {mul}")
+print(f"Div is {div}") 
+print(f"Mod is {mod}") 
+print(f"Int div is {intdiv}") 
+print(f"Cube is {cube}") 
 
 # Variable names are case sensitive, i.e., a and A are different.
 # A variable name can consist of letters and alphabets.

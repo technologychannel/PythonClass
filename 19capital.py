@@ -7,11 +7,11 @@ country_capital = {
 }
 
 
+all_keys = list(country_capital.keys())
+all_keys.sort()
+all_keys.reverse()
 
-# for k in country_capital:
-#     print(k)
-
-for k in country_capital:
+for k in all_keys:
     print(f"Capital city of {k} is {country_capital[k]}")
 
 

@@ -1,24 +1,26 @@
-resultset = {
-    '0041144N': '4',
-    '0023232A': '2',
-    '0023833C': '3',
-    '0023432V': '3.5',
+# Total number of books
+number_of_books = 350
+
+# Average book rating
+average_rating = 4.7
+
+# Name of the librarian
+librarian_name = "John Doe"
+
+# Library open status
+is_library_open = True
+
+# List of book titles
+book_titles = ["1984", "To Kill a Mockingbird", "The Great Gatsby", "Moby Dick"]
+
+# Location coordinates of the library
+library_location = (40.7128, -74.0060)  # Example coordinates
+
+# Contact details of library staff
+staff_contacts = {
+    "John Doe": "john.doe@example.com",
+    "Jane Smith": "jane.smith@example.com"
 }
 
-symbol_no = input("Enter your symbol number: ")
-
-result = ""
-for i in resultset.keys():
-    if symbol_no == i:
-        result = resultset[i]
-        break
-    else:
-        result = '' 
-
-if result != "":
-    print(f"Your result is {result}")
-else:
-    print("Your symbol number not found.")    
-
-
-# Dislay your name 1000 times using loop in python.
+# Set of unique genres
+genres = {"fiction", "non-fiction", "mystery", "fantasy", "biography"}

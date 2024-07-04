@@ -6,3 +6,4 @@ for score in scores:
         print(f'Score {score} pass')
     else:
         print(f'Score {score} failed')
+

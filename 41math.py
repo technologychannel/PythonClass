@@ -32,3 +32,7 @@ def round_number(n):
 
 user_input = float(input("Enter number: "))
 round_number(user_input)
+
+
+
+total = 2 + 3 

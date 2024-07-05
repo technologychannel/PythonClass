@@ -19,5 +19,5 @@ for i in microbiology_names:
 ### Create 10 employee who works on different department
 ### Print all employee who are in IT Department
 
-### Option: 
+### Optional: 
 ### Display all department along with their names.

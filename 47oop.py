@@ -20,3 +20,5 @@ st2 = Student("Bijay", age=23)
 st2.display()
 # Create Class Teacher with parameter name and salary, and display method
 # Create 3 object of Teacher and Display details
+
+# Write a python program to create a class Laptop with properties [id, name, ram] and create 3 objects of it and print all details.

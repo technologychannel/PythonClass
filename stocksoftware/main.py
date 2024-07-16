@@ -5,7 +5,6 @@ What do you want to do[1-2]?
 1. Add Product
 2. View All Product
 """
-
 option = int(input(option_text))
 if option == 1:
     p = Product(id=0,name= "", qty=0, price=0)
@@ -23,4 +22,6 @@ elif option == 2:
     print(f.read())
     print("------------------")
     
-
+# Create a software for bank
+# Customer[id, name, phone, balance]
+# Create option to add and view customer
